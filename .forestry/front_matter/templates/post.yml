@@ -40,3 +40,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/abc-testing-a-new-blog-post.md
