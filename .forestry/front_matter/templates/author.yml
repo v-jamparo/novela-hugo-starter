@@ -44,4 +44,5 @@ fields:
   label: Featured Author
   description: Feature this author on the home page
 pages:
+- content/authors/jon-amparo.md
 - content/authors/jonathan-amparo.md
