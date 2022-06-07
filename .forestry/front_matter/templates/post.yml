@@ -41,5 +41,6 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/062022/new-posst-folder-62022.md
 - content/post/abc-testing-a-new-blog-post.md
 - content/post/new-post-in-folder.md
